@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anishmanchanda)](https://git.io/streak-stats)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=anishmanchanda&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
