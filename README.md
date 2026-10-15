@@ -1,6 +1,6 @@
 # Hi, I'm Anish 👋
 
-B.Tech CS (AI) student at USICT (GGSIPU), Delhi — class of 2028. I build backend systems, LLM pipelines and native Apple apps, and I like debugging things down to the byte.
+B.Tech CSE (AI) student at USICT (GGSIPU), Delhi — class of 2028. I build backend systems, LLM pipelines and native Apple apps, and I like debugging things down to the byte.
 
 ## ⚡ What I work with
 
@@ -40,9 +40,9 @@ A wall calendar with 3D page-flip animations, per-month theming computed from ea
 
 ## 💼 Experience
 
-- **MCT India Infotech** — Backend Engineering Intern (May–Jul 2026): Python backend for a real-time conversational voice agent (session orchestration, multi-turn streaming, REST integrations), plus an LLM-as-a-Judge evaluator that ran scheduled regression checks over call logs.
-- **Pepper Labs AI** — AI/ML Engineering Intern (Feb–Apr 2026): shipped a production RAG pipeline for CUET exam prep, built a multi-provider LLM layer (OpenAI, Gemini, Groq, SambaNova) with fallback, and fixed an async bug that fired every LLM call 3× per request.
-- **USICT TechSpace** — Computer Vision Intern (Jan–Feb 2026): OCR pipeline digitising handwritten rural invoices into SQL, with Chart.js dashboards.
+- **Pepper Labs AI** — AI/ML Engineering Intern (June – Aug 2026): shipped a production RAG pipeline for CUET exam prep, built a multi-provider LLM layer (OpenAI, Gemini, Groq, SambaNova) with fallback, and fixed an async bug that fired every LLM call 3× per request.
+- **MCT India Infotech** — Backend Engineering Intern (April – May 2026): Python backend for a real-time conversational voice agent (session orchestration, multi-turn streaming, REST integrations), plus an LLM-as-a-Judge evaluator that ran scheduled regression checks over call logs.
+- **USICT TechSpace** — Computer Vision Intern (Feb – March 2026): OCR pipeline digitising handwritten rural invoices into SQL, with Chart.js dashboards.
 - **Excel Health-Tech Devices** — Software Engineer Intern (Dec 2025–Jan 2026): WhatsApp-first inventory system in FastAPI with an async expiry-alert scheduler for a 10+ person team.
 
 ## 🧰 Stack
