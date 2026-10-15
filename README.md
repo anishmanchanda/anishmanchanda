@@ -36,8 +36,6 @@ A wall calendar with 3D page-flip animations, per-month theming computed from ea
 
 [![takeUforward](tuf-card.svg)](https://takeuforward.org/profile/anishmanchanda)
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/anishmanchanda?theme=dark&ext=heatmap)](https://leetcode.com/anishmanchanda)
-
 [Codeforces](https://codeforces.com/profile/anishmanchanda) · [LeetCode](https://leetcode.com/anishmanchanda) · [takeUforward](https://takeuforward.org/profile/anishmanchanda)
 
 ## 💼 Experience
