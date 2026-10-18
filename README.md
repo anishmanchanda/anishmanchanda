@@ -42,7 +42,7 @@ A wall calendar with 3D page-flip animations, per-month theming computed from ea
 
 - **Pepper Labs AI** — AI/ML Engineering Intern (June – Aug 2026): shipped a production RAG pipeline for CUET exam prep, built a multi-provider LLM layer (OpenAI, Gemini, Groq, SambaNova) with fallback, and fixed an async bug that fired every LLM call 3× per request.
 - **MCT India Infotech** — Backend Engineering Intern (April – May 2026): Python backend for a real-time conversational voice agent (session orchestration, multi-turn streaming, REST integrations), plus an LLM-as-a-Judge evaluator that ran scheduled regression checks over call logs.
-- **USICT TechSpace** — Computer Vision Intern (Feb – March 2026): OCR pipeline digitising handwritten rural invoices into SQL, with Chart.js dashboards.
+- **Indian Audit and Accounts Department (CAG India)** — Computer Vision Intern (Feb – March 2026): OCR pipeline digitising handwritten rural invoices into SQL, with Chart.js dashboards.
 - **Excel Health-Tech Devices** — Software Engineer Intern (Dec 2025–Jan 2026): WhatsApp-first inventory system in FastAPI with an async expiry-alert scheduler for a 10+ person team.
 
 ## 🧰 Stack
